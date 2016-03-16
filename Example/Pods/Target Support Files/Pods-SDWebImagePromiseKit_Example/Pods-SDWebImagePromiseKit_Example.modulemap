@@ -1,0 +1,6 @@
+framework module Pods_SDWebImagePromiseKit_Example {
+  umbrella header "Pods-SDWebImagePromiseKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
